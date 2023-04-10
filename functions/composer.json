@@ -1,0 +1,7 @@
+{
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "algolia/algoliasearch-client-php": "^2.14"
+    }
+}
