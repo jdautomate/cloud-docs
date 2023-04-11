@@ -1111,6 +1111,11 @@ var toc = [{
 "url": "administrator/devices/connect-to-cloudconnexa/user-wpc-subnet.html",
 "text": "User WPC Subnet",
 "class": "topic-link section reused-publication"
+},
+{
+"url": "administrator/devices/connect-to-cloudconnexa/device-enforcement.html",
+"text": "Device Enforcement",
+"class": "topic-link section reused-publication"
 }]
 }]
 },
@@ -1357,6 +1362,11 @@ var toc = [{
 {
 "url": "administrator/security/device-enforcement/device-enforcement-now-released.html",
 "text": "Device Enforcement Now Released",
+"class": "topic-link section reused-publication"
+},
+{
+"url": "administrator/security/device-enforcement/user-guide---device-enforcement.html",
+"text": "User Guide - Device Enforcement",
 "class": "topic-link section reused-publication"
 }]
 }]
